@@ -31,7 +31,7 @@ Each `<ol>` tags must contain 3 `<li>` of any dishes, you may also include any o
 
 ### 8. Popular Dishes (Anchor Tags, Hyperlink, Image)
 - Create three HTML pages, each showcasing a different popular dish. Name the files according to the dish names.
-- In the index.html file, include three images representing the dishes and create three hyperlinks that redirect to the respective pages.
+- In the index.html file, include three images representing the dishes and create three hyperlinks that redirect to the respective pages (Use `<nav` and `<a>`).
 - In each dish page, include at least one image, one heading (Dish Name), and one paragraph (Description of the dish).
 - Don't forget to change the title and the tab icon as well! 😉
 - Each person needs to choose one page to work on for the future assignment, and each person should complete one page for a dish and commit their changes to their leader's repository.
