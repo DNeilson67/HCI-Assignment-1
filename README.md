@@ -19,7 +19,7 @@ Include the restaurant's location and contact information using `<h3>` tags.
 
 ### 5. Social Media Links (Anchor Tags)
 Provide links to the restaurant's social media profiles (e.g., Facebook, Instagram, Twitter) using `<a>` tags. 
-Alternatively, you can also use nest the image using `<a>` tags to make it clickable and redirect to social media links.
+Alternatively, you can also nest the image using `<a>` tags to make it clickable and redirect to social media links.
 
 ### 6. Brief Description of the Restaurant (Paragraph)
 Provide a brief description of the restaurant's atmosphere and type of cuisine using a `<p>` tag and use at least 1 `<br>` to break a line. 
@@ -46,8 +46,9 @@ Each `<ol>` tags must contain 3 `<li>` of any dishes, you may also include any o
 4. Teammates need to clone their leader repository.
 5. Copy the HTML structure following the instructions above.
 6. Open the file in a browser to view the basic restaurant page.
-7. Deploy your website by using Github Pages
+7. The Team Leader should check that their teammates have committed at least 1 dish page to the Team Leader's repository.
+8. Deploy your website by using Github Pages (Bonus Points)
 
 ## Submission Link
-Troy (Individual): https://forms.gle/dBRdJhpWRNqhXuFH6
-Davin (Team): https://forms.gle/NDVWy8tyjfPgJdW29 (Deadline: Next Week)
+Davin (Team): https://forms.gle/NDVWy8tyjfPgJdW29
+Deadline: Next Week (30/09/2024)
