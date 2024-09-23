@@ -1,5 +1,5 @@
-# Restaurant Webpage - HTML Assignment (In-class/Homework)
-## Team/Individual Assignment
+# Restaurant Webpage - HTML Assignment (Homework)
+## Team Assignment
 
 This project is a basic HTML page for a restaurant, including essential elements such as headings, paragraphs, links, images, and lists.
 
