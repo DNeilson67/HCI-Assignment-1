@@ -29,5 +29,14 @@ Include at least three extra HTML elements, that have not been taught in class b
 3. Open the file in a browser to view the basic restaurant page.
 
 ## Submission Link
-Davin (Team): https://forms.gle/NDVWy8tyjfPgJdW29
-Deadline: Next Week (30/09/2024)
+You just need to update your repository. No need to submit any forms, YAY! 😊
+Deadline: Next Week (07/10/2024)
+
+## Late Submission Penalty Table
+
+| Late Submission | Maximum Score |
+|-----------------|---------------|
+| 1 Day           | 80            |
+| 2 Days          | 70            |
+| 3 Days          | 65            |
+| 4+ Days         | 50            |
