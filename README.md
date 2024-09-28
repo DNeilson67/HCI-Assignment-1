@@ -32,7 +32,7 @@ Include at least three extra HTML elements, that have not been taught in class b
 You just need to update your repository. No need to submit any forms, YAY! 😊
 Deadline: Next Week (07/10/2024) + 1 Day
 
-## Late Submission Penalty Table
+## Score Table
 
 | Completed Requirements | Score |
 |-----------------|---------------|
