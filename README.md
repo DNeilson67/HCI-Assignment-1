@@ -30,8 +30,9 @@ Include at least three extra HTML elements, that have not been taught in class b
 4. Create ReadMe.md file which specifies which team member is responsible for each dish page.
 
 ## Submission Link
-You just need to update your repository. No need to submit any forms, YAY! 😊
-Deadline: Next Week (07/10/2024) + 1 Day
+- You just need to update your repository. No need to submit any forms, YAY! 😊
+- Deadline: Next Week (07/10/2024)
+- The Next Day, your score will be published in the group.
 
 ## Score Table
 
