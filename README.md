@@ -27,6 +27,7 @@ Include at least three extra HTML elements, that have not been taught in class b
 1. In the previous assignment, you have already make 3 dish pages. Each person needs to choose one dish.
 2. Copy the HTML structure following the instructions above.
 3. Open the file in a browser to view the basic restaurant page.
+4. Create ReadMe.md file which specifies which team member is responsible for each dish page.
 
 ## Submission Link
 You just need to update your repository. No need to submit any forms, YAY! 😊
