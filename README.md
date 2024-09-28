@@ -9,7 +9,7 @@ This project is the continuation of basic HTML page for a restaurant, including 
 You will place an image of the dish using the <img> tag. Make sure to specify the source of the image using the src attribute.
 
 ### 2. Ingredient Lists
-Use an unordered list (<ul>) to display the ingredients of the recipe.
+Use an unordered list `<ul>` to display the ingredients of the recipe.
 
 ### 3. Find the instruction recipe based on the dish
 You can display the recipe instructions using a table `<table>`. This is useful for structuring steps clearly. The Columns should include Number, Instructions, and Image.
