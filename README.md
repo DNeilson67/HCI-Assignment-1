@@ -20,7 +20,7 @@ Use Forms to give the recipe a rating or feedbacks.
 ### 5. Deploy Your Website by using Github Pages
 Deploy the website by using Github Pages, make sure that the link is accessible and can be previewed.
 
-### 6. More HTML Elements (Extra Miles, only first 5 people can claim)
+### 6. More HTML Elements (Extra Miles)
 Include at least three extra HTML elements, that have not been taught in class before. One of the example is `<iframe>`.
 
 ## Instructions
