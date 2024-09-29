@@ -25,7 +25,7 @@ Include at least three extra HTML elements, that have not been taught in class b
 
 ### 7. Decorate your website (Extra Miles)
 Decorate your website using internal/external CSS, and ensure that it looks good. You can find the reference on Dribbble.
-N.B. If the website style is pretty good enough, you are able to skip the next assignment (CSS) and instantly get a full score.
+N.B. If the website style is pretty good enough, you are able to skip the next assignment (CSS) and instantly get a perfect score.
 
 ## Instructions
 1. In the previous assignment, you have already make 3 dish pages. Each person needs to choose one dish.
