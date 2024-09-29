@@ -21,7 +21,7 @@ Use Forms to give the recipe a rating or feedbacks.
 Deploy the website by using Github Pages, make sure that the link is accessible and can be previewed.
 
 ### 6. More HTML Elements
-Include at least three extra HTML elements, that have not been taught in class before. One of the example is `<iframe>`.
+Include at least three extra HTML elements, that have not been taught in class before. One of the example is `<iframe>`, `<div>`.
 
 ### 7. Decorate your website (Extra Miles)
 Decorate your website using internal/external CSS, and ensure that it looks good. You can find the reference on Dribbble.
