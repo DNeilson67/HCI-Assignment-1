@@ -21,8 +21,8 @@ Use Forms to give the recipe a rating or feedbacks: `<form>`, `<input>`, `<butto
 Deploy the website by using Github Pages, make sure that the link is accessible and can be previewed.
 
 ### 6. Decorate your website (Extra Miles)
-Decorate your website using internal/external CSS, and ensure that it looks good. You can find the reference on Dribbble.
-N.B. If the website style is pretty good enough, **you are able to skip the next assignment (CSS) and instantly get a perfect score (100). Next assignment, no guarantees on getting 100.**.
+- Decorate your website using internal/external CSS, and ensure that it looks good. You can find the reference on Dribbble.
+- N.B. If the website style is pretty good enough, **you are able to skip the next assignment (CSS) and instantly get a perfect score (100)..
 
 ## Instructions
 1. In the previous assignment, you have already make 3 dish pages. Each person needs to choose one dish.
