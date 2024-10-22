@@ -11,6 +11,7 @@ Deadline: Week 10
 - Build A Palindrome Checker - 35 Pts
 - Build A Roman Numeral Checker - 25 Pts
 - Build A Telephone Number Validator - 20 Pts
+### Extra Miles
 - Build A Cash Register - 10 Pts
 - Build A Pokemon Search App - 10 Pts
 
