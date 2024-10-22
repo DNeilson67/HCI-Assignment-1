@@ -8,9 +8,9 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 Deadline: Week 10
 
 ## Rubric Score
-- Build A Palindrome Checker - 40 Pts
+- Build A Palindrome Checker - 35 Pts
 - Build A Roman Numeral Checker - 25 Pts
-- Build A Telephone Number Validator - 15 Pts
+- Build A Telephone Number Validator - 20 Pts
 - Build A Cash Register - 10 Pts
 - Build A Pokemon Search App - 10 Pts
 
