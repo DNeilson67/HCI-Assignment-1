@@ -5,8 +5,8 @@ Do these tasks in FreeCodeCamp and Get your certificate.
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 
 ## Submission Link
-Deadline: Week 10
-Late Submission -> -5 Points/Day
+- Deadline: Week 10
+- Late Submission -> -5 Points/Day
 
 ## Rubric Score
 - Build A Palindrome Checker - 35 Pts
